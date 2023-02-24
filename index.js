@@ -10,6 +10,6 @@ app.get("/faces", (request,response)=>{ //response, la resp que queiro dar a una
 });
 
 app.listen(port, ()=>{
-    console.log(`Server ready in port $(port)`);
+    console.log(`Server ready in port ${port}`);
 });//funcion asincrona, con el 2º param me aseguro escucha cuando el servidor esta preparado
 
