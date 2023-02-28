@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 var express = require("express");
 var cool = require("cool-ascii-faces");
 
@@ -14,6 +15,8 @@ app.listen(port, ()=>{
     console.log(`Server ready in port ${port}`);
 });//funcion asincrona, con el 2º param me aseguro escucha cuando el servidor esta preparado
 =======
+=======
+>>>>>>> 668961a37b8ddef1fe06e873beeb5dcc30c406f0
 //var algo = console.log("Hello world !");
 
 function log(msg){
@@ -39,5 +42,8 @@ var i = numbers
 
 log(i);
 
+<<<<<<< HEAD
+>>>>>>> 668961a37b8ddef1fe06e873beeb5dcc30c406f0
+=======
 >>>>>>> 668961a37b8ddef1fe06e873beeb5dcc30c406f0
 
